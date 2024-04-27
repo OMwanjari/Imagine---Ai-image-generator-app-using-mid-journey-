@@ -21,6 +21,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshots
 <p align="center">
-    <img src="https://github.com/example/Ai-Image-Generator-App/blob/main/1.jpg" width="300" height="600" />
+    <img src="https://github.com/Imagine---Ai-image-generator-app-using-mid-joumey-/blob/main/1.jpg" width="300" height="600" />
     <img src="https://github.com/example/Ai-Image-Generator-App/blob/main/2.jpg" width="300" height="600" />
 </p>
